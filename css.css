@@ -118,3 +118,21 @@ nav ul li a {
 .buy-button:hover {
     background-color: #c0392b;
 }
+.chef vid {
+    width: 150px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+.chef vid:hover {
+    transform: scale(1.1);
+}
+
+.video-section {
+    margin-top: 20px;
+}
+video {
+    width: 100%;
+    max-width: 600px; /* Maximale Breite des Videos */
+    border-radius: 10px; /* Abgerundete Ecken für das Video */
+    margin-top: 20px;
+}
