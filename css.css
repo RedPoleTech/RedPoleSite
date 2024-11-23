@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+a {
+    margin: 0;
+    font-size: 14px;
+    color: #1889c2;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
